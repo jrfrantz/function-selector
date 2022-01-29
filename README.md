@@ -1,3 +1,7 @@
+Simple utility to calculate function selectors without having to get into code yourself. Useful in the way the calculator in google search is useful.
+
+![ezgif-7-d0d571c20b](https://user-images.githubusercontent.com/2431257/151671306-ec4eeedc-9280-4563-8169-8d0c4d7f974d.gif)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
